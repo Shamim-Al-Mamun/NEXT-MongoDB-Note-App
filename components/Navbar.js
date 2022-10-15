@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <nav className={style.navbar}>
             <Link href="/">
-                <a className={style.navbarbrand}>NoteApp</a>
+                <a className={style.navbarbrand}>NoteApp 2</a>
             </Link>
             <Link href="/new">
                 <a className={style.create}>Create Note</a>
